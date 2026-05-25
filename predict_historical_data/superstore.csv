@@ -1,0 +1,26 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Segment,Country,City,State,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,CA-2026-152156,2026-01-08,2026-01-11,Second Class,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,Bush Somerset Bookcase,261.96,2,0.00,41.91
+2,CA-2026-152156,2026-01-08,2026-01-11,Second Class,Consumer,United States,Henderson,Kentucky,South,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,731.94,3,0.00,219.58
+3,CA-2026-138688,2026-01-12,2026-01-16,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,Self-Adhesive Address Labels for Card Cards,14.62,2,0.00,6.87
+4,US-2026-108966,2026-01-18,2026-01-22,Standard Class,Consumer,United States,Fort Lauderdale,Florida,South,Furniture,Tables,Bretford Rectangular Conference Table,957.58,5,0.45,-383.03
+5,US-2026-108966,2026-01-18,2026-01-22,Standard Class,Consumer,United States,Fort Lauderdale,Florida,South,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,22.37,2,0.20,2.52
+6,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Furniture,Furnishings,Eldon Expressions Wood Desk Accessories,48.86,7,0.00,14.17
+7,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Art,Newell 322,7.28,4,0.00,1.97
+8,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Phones,Mitel 5320 IP Phone VoIP,907.15,6,0.20,90.72
+9,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Binders,DXL Angle-View Binders with Locking Rings,18.50,3,0.20,5.78
+10,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Appliances,Belkin 3-Outlet Mini Travel Swivel Charger,114.90,5,0.00,34.47
+11,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Furniture,Tables,Chromcraft Round Conference Table,1707.40,9,0.20,85.37
+12,CA-2026-115812,2026-02-09,2026-02-14,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Phones,Konftel 250 Conference phone,911.42,4,0.20,68.36
+13,CA-2026-114412,2026-02-15,2026-02-20,Standard Class,Consumer,United States,Concord,North Carolina,South,Office Supplies,Paper,Xerox 1967,15.55,3,0.20,5.44
+14,CA-2026-161389,2026-02-20,2026-02-24,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Binders,Fellowes PB200 Plastic Comb Binding Machine,407.98,3,0.20,132.59
+15,US-2026-118983,2026-02-22,2026-02-26,Standard Class,Home Office,United States,Fort Worth,Texas,Central,Office Supplies,Appliances,Holmes Replacement Filter for HEPA Air Cleaners,68.81,5,0.80,-123.86
+16,US-2026-118983,2026-02-22,2026-02-26,Standard Class,Home Office,United States,Fort Worth,Texas,Central,Office Supplies,Binders,Storex DuraTech Binders,2.54,3,0.80,-3.82
+17,CA-2026-105893,2026-03-01,2026-03-04,First Class,Consumer,United States,Madison,Wisconsin,Central,Office Supplies,Storage,Stabila Level with Case,665.88,6,0.00,133.18
+18,CA-2026-167164,2026-03-10,2026-03-14,Second Class,Consumer,United States,West Jordan,Utah,West,Office Supplies,Storage,Fellowes Command Shell Drawer,55.50,2,0.00,9.99
+19,CA-2026-143336,2026-03-22,2026-03-27,Second Class,Consumer,United States,San Francisco,California,West,Office Supplies,Art,Newell 341,8.56,2,0.00,2.48
+20,CA-2026-143336,2026-03-22,2026-03-27,Second Class,Consumer,United States,San Francisco,California,West,Technology,Phones,Cisco SPA 501G IP Phone,213.48,3,0.20,16.01
+21,CA-2026-143336,2026-03-22,2026-03-27,Second Class,Consumer,United States,San Francisco,California,West,Office Supplies,Binders,Wilson Jones active-charge Ring Binder,22.72,4,0.20,7.38
+22,CA-2026-137330,2026-04-03,2026-04-08,Standard Class,Corporate,United States,Fremont,Nebraska,Central,Office Supplies,Art,Newell 318,19.46,7,0.00,5.06
+23,CA-2026-137330,2026-04-03,2026-04-08,Standard Class,Corporate,United States,Fremont,Nebraska,Central,Office Supplies,Appliances,Acco Six-Outlet Power Strip,60.34,4,0.00,15.69
+24,US-2026-156909,2026-04-12,2026-04-17,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Global Deluxe Mid-Back Task Chair,71.37,3,0.30,-1.02
+25,CA-2026-106376,2026-04-21,2026-04-26,Standard Class,Corporate,United States,Athens,Georgia,South,Office Supplies,Art,Prismacolor Colored Pencils,10.44,3,0.00,2.71
